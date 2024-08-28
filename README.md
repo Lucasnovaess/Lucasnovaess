@@ -23,4 +23,10 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seu-usuario&theme=radical)](https://git.io/streak-stats)
+
 
