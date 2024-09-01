@@ -1,6 +1,5 @@
+## Olá! Eu sou o Lucas Novaes
 
-
-- 👋 Hi, I’m @Lucasnovaess
 - 👀 I’m interested in fullstack and cybersecurity
 - 🌱 I’m currently learning Java with Object-oriented programming (OOP) , Python, MySQL and Object-oriented modeling (OOM) 
 - 💞️ Nowadays. I’m looking to collaborate as a fullstack develper 
@@ -13,8 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-novaes-08ab3127b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_novaess/)
+<a href = "https://www.linkedin.com/in/lucas-novaes-08ab3127b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:lucasnovaesdesaferreira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.instagram.com/lucas_novaess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ### Languages and Tools:
 
@@ -27,8 +27,13 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasnovaess&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaess&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lucasnovaess&theme=radical)](https://git.io/streak-stats)
+ <div>
+  <a href="https://github.com/Lucasnovaess">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasnovaess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaess&layout=compact&langs_count=16&theme=dark"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=Lucasnovaess&theme=dark"/>
+</div>
+
+![Snake animation](https://github.com/Lucasnovaess/Lucasnovaess/blob/output/github-contribution-grid-snake.svg)
 
 
