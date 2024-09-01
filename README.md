@@ -33,7 +33,3 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaess&layout=compact&langs_count=16&theme=dark"/>
   <img height="170em" src="https://streak-stats.demolab.com/?user=Lucasnovaess&theme=dark"/>
 </div>
-
-![Snake animation](https://github.com/Lucasnovaess/Lucasnovaess/blob/output/github-contribution-grid-snake.svg)
-
-
