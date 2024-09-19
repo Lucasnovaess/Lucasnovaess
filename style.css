@@ -1,0 +1,27 @@
+.central {
+    text-align: center ;
+    border: 5px solid black;
+}
+
+#licao {
+    text-align: center;
+    font-size: 2em;
+}
+
+.principal {
+    display: inline-block;
+}
+
+#bob1 {
+    border: 5px solid;
+    padding: 16px;
+    margin: 50px 50px;
+    border-radius: 20px;
+}
+
+#bob2 {
+    border: 5px solid;
+    padding: 16px;
+    margin: 50px 50px;
+    border-radius: 20px;
+}
