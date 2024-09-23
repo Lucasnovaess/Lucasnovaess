@@ -1,14 +1,8 @@
 ## Olá! Eu sou o Lucas Novaes
 
-- 👀 I’m interested in fullstack and cybersecurity
-- 🌱 I’m currently learning Java with Object-oriented programming (OOP) , Python, MySQL and Object-oriented modeling (OOM) 
-- 💞️ Nowadays. I’m looking to collaborate as a fullstack developer 
-- 📫 You can reach me by my e-mail: lucasnovaesdesaferreira@gmail.com, or Linkedin: https://www.linkedin.com/in/lucas-novaes-08ab3127b/ 
-
-<!---
-Lucasnovaess/Lucasnovaess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Sou formado no Colégio Passionista São Paulo da Cruz e atualmente estou no 2° semestre no Instituto Mauá de Tecnologia como estudante de ciência da computação. Possuo facilidade para me comunicar, aprendizagem ágil e resolução de problemas de forma produtiva e aprendo com eles. Meus pontos de interesse são desenvolvedor fullstack, cibersegurança e computação em nuvem AWS! 🚀 
+E-mail: lucasnovaesdesaferreira@gmail.com
+Linkedin: https://www.linkedin.com/in/lucas-novaes-08ab3127b/  
 
 ### Connect with me:
 
