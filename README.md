@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/Lucasnovaess">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasnovaess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaess&layout=compact&langs_count=16&theme=dark"/>
-  <img height="170em" src="https://streak-stats.demolab.com/?user=Lucasnovaess&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaess&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=Lucasnovaess&theme=tokyonight"/>
 </div>
 
 
