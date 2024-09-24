@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Novaes
 
-<p> Sou formado no Colégio Passionista São Paulo da Cruz e atualmente estou no 2° semestre no Instituto Mauá de Tecnologia como estudante de ciência da computação. Possuo facilidade para me comunicar, aprendizagem ágil e resolução de problemas de forma produtiva e aprendo com eles. Meus pontos de interesse são <strong> desenvolvedor fullstack </strong>, <strong> cibersegurança </strong> e <strong> computação em nuvem AWS </strong>! 🚀 <p>
+<p> Sou formado pelo Colégio Passionista São Paulo da Cruz e atualmente estou cursando o 2° semestre de Ciência da Computação no Instituto Mauá de Tecnologia. Tenho facilidade em me comunicar, aprendo de forma ágil e foco na resolução produtiva de problemas, sempre buscando aprender com cada desafio. Meus principais interesses incluem <strong> desenvolvedor fullstack </strong>, <strong> cibersegurança </strong> e <strong> computação em nuvem com AWS </strong>! 🚀 <p>
 
 ### Connect with me:
 
