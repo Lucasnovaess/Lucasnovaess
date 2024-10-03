@@ -1,4 +1,4 @@
-package Exercicio.Computador;
+package Exercicio;
 
 public class Executando {
 
