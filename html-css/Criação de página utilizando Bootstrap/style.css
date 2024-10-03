@@ -10,7 +10,6 @@
 .titulo {
     text-align: center;
     padding: 2em;
-    border: 2px solid red;
 }
 
 /* Altera apenas o h1 */
@@ -50,5 +49,4 @@ img {
 /* Verificar borda */
 .telona {
     margin-top: 0px;
-    border: 2px solid red;
 }
