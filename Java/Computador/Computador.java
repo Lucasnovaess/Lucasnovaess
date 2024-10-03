@@ -1,4 +1,4 @@
-package Exercicio.Computador;
+package Exercicio;
 
 public class Computador implements Monitor {
     // Atributos
@@ -93,8 +93,11 @@ public class Computador implements Monitor {
             qntdClks++;
             System.out.println("Quantidade de clicks " + qntdClks);
         }
-        else {
-            System.out.println("O mouse e o pc estão desconectados");
+        else if (this.getLigado()) {
+            System.out.println("O mouse está desconectado");
+        }
+        else if (this.getMouseConec()) {
+            System.out.println("O pc está desconectado");
         }
     }
     @Override
@@ -102,8 +105,14 @@ public class Computador implements Monitor {
         if (this.getLigado() && this.getTecladoConec()) {
             System.out.println("Digitando...");
         }
+        else if (this.getLigado() && this.getMouseConec()) {
+            System.out.println("Teclado desconectado");
+        }
+        else if (this.getTecladoConec() && this.getMouseConec()) {
+            System.out.println("Pc desconectado");
+        }
         else {
-            System.out.println("O teclado e o pc estão desconectados");
+            System.out.println("Pc e Teclado desconectados");
         }
     }
     @Override
@@ -119,6 +128,15 @@ public class Computador implements Monitor {
         if (this.getLigado() && this.getTecladoConec() && this.getMouseConec()) {
             System.out.println("Trabalhando...");
         }
+        else if (this.getLigado() && this.getTecladoConec()) {
+            System.out.println("Mouse desconectado");
+        }
+        else if (this.getLigado() && this.getMouseConec()) {
+            System.out.println("Teclado desconectado");
+        }
+        else if (this.getTecladoConec() && this.getMouseConec()) {
+            System.out.println("Pc desconectado");
+        }
         else {
             System.out.println("Pc, Mouse e Teclado desconectados");
         }
@@ -128,6 +146,15 @@ public class Computador implements Monitor {
     public void jogar() {
         if (this.getLigado() && this.getTecladoConec() && this.getMouseConec()) {
             System.out.println("Jogando...");
+        }
+        else if (this.getLigado() && this.getTecladoConec()) {
+            System.out.println("Mouse desconectado");
+        }
+        else if (this.getLigado() && this.getMouseConec()) {
+            System.out.println("Teclado desconectado");
+        }
+        else if (this.getTecladoConec() && this.getMouseConec()) {
+            System.out.println("Pc desconectado");
         }
         else {
             System.out.println("Pc, Mouse e Teclado desconectados");
