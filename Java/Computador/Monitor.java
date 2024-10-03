@@ -1,4 +1,4 @@
-package Exercicio.Computador;
+package Exercicio;
 
 public interface Monitor {
     public void conecMouse();
