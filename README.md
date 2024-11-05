@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center"> 
-  <p> Sou formado pelo Colégio Passionista São Paulo da Cruz e atualmente estou cursando o 2° semestre de Ciência da Computação no Instituto Mauá de Tecnologia. Tenho facilidade em me comunicar, aprendo de forma ágil e foco na resolução produtiva de problemas, sempre buscando aprender com cada desafio. Meus principais interesses incluem <strong> desenvolvedor fullstack </strong>, <strong> cibersegurança </strong> e <strong> computação em nuvem com AWS </strong>! 🚀 <p>
+  <p> Sou formado pelo Colégio Passionista São Paulo da Cruz e atualmente estou cursando o 2° semestre de Ciência da Computação no Instituto Mauá de Tecnologia. Tenho facilidade em me comunicar, aprendo de forma ágil e foco na resolução produtiva de problemas, sempre buscando aprender com cada desafio. Meus principais interesses incluem <strong> desenvolvedor fullstack </strong>, <strong> cibersegurança </strong> e <strong> computação em nuvem com AWS </strong>! <p>
   
   ###  🔧 Languages and Tools:
 
@@ -36,5 +36,5 @@
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=A020F0&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=A020F0&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção! 🚀;" />
 </h1>
