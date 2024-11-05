@@ -5,12 +5,6 @@
 <div align="center"> 
   <p> Sou formado pelo Colégio Passionista São Paulo da Cruz e atualmente estou cursando o 2° semestre de Ciência da Computação no Instituto Mauá de Tecnologia. Tenho facilidade em me comunicar, aprendo de forma ágil e foco na resolução produtiva de problemas, sempre buscando aprender com cada desafio. Meus principais interesses incluem <strong> desenvolvedor fullstack </strong>, <strong> cibersegurança </strong> e <strong> computação em nuvem com AWS </strong>! 🚀 <p>
   
-  ### 📞 Connect with me:
-  
-  <a href = "https://www.linkedin.com/in/lucas-novaes-08ab3127b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasnovaesdesaferreira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.instagram.com/lucas_novaess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
   ###  🔧 Languages and Tools:
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +27,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaess&layout=compact&langs_count=16&theme=tokyonight"/>
     <img height="170em" src="https://streak-stats.demolab.com/?user=Lucasnovaess&theme=tokyonight"/>
   </div>
+
+  ### 📞 Connect with me:
+  
+  <a href = "https://www.linkedin.com/in/lucas-novaes-08ab3127b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucasnovaesdesaferreira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.instagram.com/lucas_novaess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <h1 align="center">
