@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0E0029?style=for-the-badge&logo=kali-linux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3F?style=for-the-badge&logo=amazon-aws&logoColor=white) ☁️
+![AWS](https://img.shields.io/badge/AWS-232F3F?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## GitHub Stats:
 
