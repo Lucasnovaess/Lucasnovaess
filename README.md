@@ -23,16 +23,16 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0E0029?style=for-the-badge&logo=kali-linux&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3F?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</div>
 
-## GitHub Stats:
-
-<div>
-  <a href="https://github.com/Lucasnovaess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasnovaess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaess&layout=compact&langs_count=16&theme=tokyonight"/>
-  <img height="170em" src="https://streak-stats.demolab.com/?user=Lucasnovaess&theme=tokyonight"/>
+  ## GitHub Stats:
+  
+  <div>
+    <a href="https://github.com/Lucasnovaess">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasnovaess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaess&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="170em" src="https://streak-stats.demolab.com/?user=Lucasnovaess&theme=tokyonight"/>
+  </div>
 </div>
 
 <h1 align="center">
